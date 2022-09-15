@@ -10,6 +10,5 @@ public class Person {
         this.age = age;
         this.name = name;
     }
-    ArrayList<Person>people = new ArrayList<Person>();
 
 }
