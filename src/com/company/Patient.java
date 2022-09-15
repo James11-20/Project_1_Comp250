@@ -11,3 +11,6 @@ public class Patient extends Person{
             return name +", "+"age "+ age+". " + doctor+".";
         }
 }
+
+
+
