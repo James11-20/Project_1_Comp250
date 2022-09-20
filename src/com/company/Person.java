@@ -8,5 +8,8 @@ public class Person {
         this.age = age;
         this.name = name;
     }
-
+    public int getAge(int age) {
+        this.age = age;
+        return age;
+    }
 }
